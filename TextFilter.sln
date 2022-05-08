@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFilter", "TextFilter\TextFilter.csproj", "{220AD2E8-B475-4488-913A-EF23E976A718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFilterTest", "TextFilterTest\TextFilterTest.csproj", "{4A8A1F61-2737-4F75-AE12-57550A511A7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{220AD2E8-B475-4488-913A-EF23E976A718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220AD2E8-B475-4488-913A-EF23E976A718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220AD2E8-B475-4488-913A-EF23E976A718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220AD2E8-B475-4488-913A-EF23E976A718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A8A1F61-2737-4F75-AE12-57550A511A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A8A1F61-2737-4F75-AE12-57550A511A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A8A1F61-2737-4F75-AE12-57550A511A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A8A1F61-2737-4F75-AE12-57550A511A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {019CBD4B-B357-4E6C-B4AB-F43E0FCD6BBE}
+	EndGlobalSection
+EndGlobal
